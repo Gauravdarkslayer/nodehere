@@ -1,0 +1,16 @@
+{
+  "name": "nodework",
+  "version": "1.0.0",
+  "description": "It contains my servers and REST APIs",
+  "main": "getRequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "getRequest",
+    "server"
+  ],
+  "author": "Gaurav",
+  "license": "ISC"
+}
